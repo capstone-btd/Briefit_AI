@@ -22,7 +22,7 @@ flowchart LR
 
 현재 경로는 [`run_full_pipeline.py`](Article_Collector/run_full_pipeline.py) → [`run_processing2.py`](Article_Collector/scripts/run_processing2.py) → [`run_summarization_by_gpt.py`](Article_Collector/scripts/run_summarization_by_gpt.py)입니다. 기존 `KoBARTSummarizer`와 Gemini 클래스가 [`summarizer.py`](Article_Collector/src/processing/summarizer.py)에 남아 있지만, 현재 전체 파이프라인의 실제 호출 경로와 구분해야 합니다.
 
-2025.05–09 프로젝트에서 6인 팀 중 AI 담당 2인에 참여했습니다. 아래 내용은 공세민의 2025년 수집·KoBART 작업이며, 현재 팀의 GPT-OSS 경로 전체를 개인 구현으로 설명하지 않습니다.
+2025.05–09 프로젝트에서 6인 팀 중 AI 담당 2인에 참여했습니다.
 
 | 담당 범위 | 구현과 판단 | 근거 |
 | --- | --- | --- |
