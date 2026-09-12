@@ -38,8 +38,6 @@ flowchart LR
 - 제15회 숭실 캡스톤디자인 경진대회 장려상 — 2025.10.01
 - 2025 IT 프로젝트 프로리그 장려상 — 2025.11.22
 
-[수상 증빙·포트폴리오](https://seminkong.github.io/SeMinKong_Web/resume/)
-
 ## 기술 스택
 
 | 영역 | 구성 |
